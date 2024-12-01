@@ -177,3 +177,6 @@ Use at your own risk.
 ### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 Thank you for testing and improving this experimental software!
+
+### Thanks
+Many thanks to Alfredo Fabris (IZ2ADM) who has supported this project and Catullo who has offered his SG2000 for testing the application.
