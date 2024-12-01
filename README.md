@@ -122,35 +122,35 @@ Alternatively, use the left (◄) and right (►) arrow buttons below the freque
 On certain O/S the mouse wheel can be used for the digit change.
 #### 3. Select the Band
 Purpose: Configure the band based on your operational requirements.
-How-to:
-Locate the band dropdown menu under the frequency display.
-Select the desired band from the list (e.g., "40m" for 40 meters). The relative frequency will be 
+
+How-to: Locate the band dropdown menu under the frequency display.
+Select the desired band from the list (e.g., "40m" for 40 meters). The relative frequency will be changed accordingly.
 #### 4. Select the Mode
 Purpose: Set the transmission mode.
-How-to:
-Use the mode dropdown menu below the band selection.
+
+How-to: Use the mode dropdown menu below the band selection.
 Choose the appropriate mode (e.g., "USB" for Upper Side Band).
 NOTE: at the minute only few modes where identified due to a lack of information in the original specification documents.
 #### 5. Send the Frequency
 Purpose: Apply the configured frequency and settings to the device.
-How-to:
-Press the Send button after making your selections.
+
+How-to: Press the Send button after making your selections.
 Ensure the device is properly configured and responding.
 #### 6. Enable Autosend (Optional)
 Purpose: Automatically send frequency changes to the device.
-How-to:
-Check the Autosend checkbox.
+
+How-to: Check the Autosend checkbox.
 Any change in frequency, band, or mode will now be sent automatically.
 #### 7. Start a Frequency Scan (Optional)
 Purpose: Scan through frequencies automatically.
-How-to:
-Click the Start Scan button.
-Adjust the Scan Delay (ms) field to set the delay between frequency changes (e.g., "1000" for 1-second delay). The delay is always applied also whene you use the normal "Send" button.
+
+How-to: Click the Start Scan button.
+Adjust the Scan Delay (ms) field to set the delay between frequency changes (e.g., set "1000" apply 1-second delay). The delay is always applied also when you use the normal "Send" button.
 Stop the scan by pressing the Start Scan button again.
 
 
 **Important Notes**
-Always select the correct COM port before attempting to adjust frequency or settings.
+Always select the correct COM port before attempting to adjust frequency or other settings.
 Ensure your SGC SG-2000 is powered on and connected to the computer via the selected COM port.
 Double-check all settings (band, mode, and frequency) before pressing the Send button.
 For safety, avoid rapid or excessive changes in frequency during operation. We tested successfully 1 second of delay between commands.
@@ -179,4 +179,4 @@ This project is licensed under the MIT License. See the LICENSE file for details
 Thank you for testing and improving this experimental software!
 
 ### Thanks
-Many thanks to Alfredo Fabris (IZ2ADM) who has supported this project and Catullo who has offered his SG2000 for testing the application.
+Many thanks to Alfredo Fabris (IZ2ADM) who has actively supported this project and Catullo - who has offered his SG2000 radio for testing the application.
